@@ -31,4 +31,5 @@ Cron-job - app was stopped 1 hour earlier than planned.
     * you will not possible to proceed business
     * you’re going to use AWS for a long time
     * ...
-In a lot of cases, AWS forgives you
+    *
+ AWS forgives you in a lot of cases.
