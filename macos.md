@@ -1,4 +1,23 @@
-## Remove app
+## Removal
+
+### Cleanup disk
+
+``` bash
+# https://github.com/tw93/Mole
+# detect changes
+mo clean --dry-run
+# run cleanup
+mo clean
+
+# docker cleanup
+docker system prune --volumes --force
+docker rmi $(docker images -q) -f
+
+# check out storage
+df -h # detect under /System/Volumes/Data
+```
+
+### Remove app
 
 If you don't find an app in Applications folder, how to remove:
 
