@@ -14,6 +14,24 @@ Distributed systems
 Cron: many people set Cron on :00 - not good
 
 
+### Non-functional requirements (any product)
+- Availability – Ensuring the system is up and accessible as required (e.g., 99.9% uptime).
+- Performance
+- Scalibility
+- Automation
+- Disaster Recovery
+- Observability
+- Security
+- Cost
+- Maintainability
+
+Additional (good to have):
+- Compliance – Adherence to regulatory, legal, or organizational standards.
+- Portability – The ease with which the system can be moved to different environments (e.g., cloud providers).
+- Capacity – The maximum workload the system can handle.
+- Resilience – The system’s ability to recover from failures and continue operating.
+
+
 ### Fuck-ups
 
 *DOU DevOps*
