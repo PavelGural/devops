@@ -1,6 +1,6 @@
 ### SRE
 
-<Цемны Лес>
+*Цемны Лес*
 SRE: Balance between development speed and reliability
 
 ? - SLO - 99.999: 1 request on 10.000 can be failed
