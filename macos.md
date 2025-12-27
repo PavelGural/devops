@@ -26,5 +26,12 @@ Click the **"i"** icon next to Applications.
 Scroll through the list to find the **app**.
 Select it and click **Delete**.
 
+
 ## Useful apps
 - Blackmagic RAW Speed Test # From Dima
+
+
+## Airdrop
+
+AirDrop uses both `Bluetooth` and `Wi-Fi` to work: it uses Bluetooth for device discovery and initial connection, then switches to a direct, high-speed Wi-Fi connection for the actual file transfer.
+Both Wi-Fi and Bluetooth must be enabled on both devices.
